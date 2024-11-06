@@ -113,13 +113,13 @@
 .userMessage {
     align-self: flex-end;
     background-color: #00000086;
-    color: #ccc;
+    color: #ffffff;
 }
 
 .modelMessage {
     align-self: flex-start;
     background-color: #00000086;
-    color: #ccc;
+    color: #ffffff;
 
 }
 
@@ -137,13 +137,13 @@
 .details h2 {
     font-size: 18px;
     margin: 0;
-    color: var(--textcol);
+    color: #ffffff;
 }
 
 .details p {
     font-size: 16px;
     margin: 5px 0 0;
-    color: var(--textcol);
+    color: #ffffff;
 }
 
 .bottomsection {
